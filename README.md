@@ -1,7 +1,7 @@
 # clean
 clean you storage
 
-Why to use this?
+How to use this?
 #first
 If you speak English.
   Download clean(English).py
