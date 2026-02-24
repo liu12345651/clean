@@ -10,6 +10,7 @@ If you speak Chinese.
 Put they onroot directory
 #second
 search http://github/termux and download termux
+or form my REPO download termux
 #third
 Download python on termux
     run pkg update && pkg upgrade
@@ -31,6 +32,7 @@ start use!
 把它们放在根目录。
 
 第二，搜索 http://github/termux 并下载 Termux。
+或者从我的库下载termux
 
 第三，在 Termux 上安装 Python：
 运行 pkg update && pkg upgrade
