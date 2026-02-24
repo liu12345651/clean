@@ -23,6 +23,9 @@ Then enter"y"
 #Last
 start use!
 
+Tip:
+"In Termux, Python files with parentheses in their names are not supported and need to be renamed after downloading."
+
 
 
 如何用这个？
@@ -45,7 +48,9 @@ start use!
 运行 python 你下载的文件.py
 
 最后，开始使用！
-
+Tip:
+"python文件在termx中不支持文件名出现括号
+下载后需要修改文件名”
 
 
   
